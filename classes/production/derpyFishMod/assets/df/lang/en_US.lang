@@ -1,0 +1,12 @@
+item.FishBowl.name=Fish Bowl
+item.Fish.name=Petrified Goldfish
+tile.fishOre.name=Fish Fossil
+itemGroup.FishItemTab=It Smells Fishy...
+entity.FishMob.name=Fish
+item.FishPickaxe.name=Fish Pickaxe
+item.FishAxe.name=Fish Axe
+item.FishHoe.name=Fish Hoe
+item.FishSpade.name=Fish Shovel
+item.FishSword.name=Fish Sword
+item.FishHammer.name=Fish Hammer of Death
+item.FishBomb.name=Fish Bomb
