@@ -827,19 +827,19 @@ java.lang.NullPointerException
 [18:47:35] [Client thread/INFO] [examplemod/]: Mod examplemod is missing the required element 'name'. Substituting examplemod
 [18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric
 [18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.fish
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.block
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.creativetabs
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.entity
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.FishWorld
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.generation
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.item
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.lib
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.main
-[18:47:35] [Client thread/DEBUG] [FML/]: Identified an FMLMod type mod com.sevaric.df.main.MainRegistry
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.block
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.creativetabs
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.entity
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.FishWorld
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.generation
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.item
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.lib
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.main
+[18:47:35] [Client thread/DEBUG] [FML/]: Identified an FMLMod type mod com.df.main.MainRegistry
 [18:47:35] [Client thread/TRACE] [com.sevaric.df/]: Parsed dependency info : [] [] []
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.model
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.recipe
-[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.render
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.model
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.recipe
+[18:47:35] [Client thread/TRACE] [FML/]: Recursing into package com.df.render
 [18:47:35] [Client thread/DEBUG] [FML/]: Examining directory start for potential mods
 [18:47:35] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory start
 [18:47:35] [Client thread/DEBUG] [FML/]: Examining file forgeSrc-1.7.2-10.12.2.1121.jar for potential mods
@@ -986,17 +986,17 @@ java.lang.NullPointerException
 [18:47:37] [Client thread/TRACE] [examplemod/examplemod]: Sending event FMLPreInitializationEvent to mod examplemod
 [18:47:37] [Client thread/TRACE] [examplemod/examplemod]: Sent event FMLPreInitializationEvent to mod examplemod
 [18:47:37] [Client thread/TRACE] [com.sevaric.df/com.sevaric.df]: Sending event FMLPreInitializationEvent to mod com.sevaric.df
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishBowl 4096 com.sevaric.df.item.Fishbowl@8bf924 (req. id -1)
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.Fish 4097 com.sevaric.df.item.Fish@191ba26 (req. id -1)
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishPickaxe 4098 com.sevaric.df.item.FishPickaxe@54521e (req. id -1)
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishAxe 4099 com.sevaric.df.item.FishAxe@1db2fbd (req. id -1)
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishHoe 4100 com.sevaric.df.item.FishHoe@11b31a1 (req. id -1)
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishSpade 4101 com.sevaric.df.item.FishSpade@577a03 (req. id -1)
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishSword 4102 com.sevaric.df.item.FishSword@10b8d65 (req. id -1)
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishHammer 4103 com.sevaric.df.item.FishHammer@170119c (req. id -1)
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishBomb 4104 com.sevaric.df.item.FishBomb@9429ea (req. id -1)
-[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:tile.fishOre 165 com.sevaric.df.block.fishOre@144a634 (req. id -1)
-[18:47:37] [Client thread/DEBUG] [FML/com.sevaric.df]: Found matching Block com.sevaric.df.block.fishOre@144a634 for ItemBlock net.minecraft.item.ItemBlock@1fbb82a at id 165, original id requested: -1
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishBowl 4096 com.df.item.Fishbowl@8bf924 (req. id -1)
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.Fish 4097 com.df.item.Fish@191ba26 (req. id -1)
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishPickaxe 4098 com.df.item.FishPickaxe@54521e (req. id -1)
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishAxe 4099 com.df.item.FishAxe@1db2fbd (req. id -1)
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishHoe 4100 com.df.item.FishHoe@11b31a1 (req. id -1)
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishSpade 4101 com.df.item.FishSpade@577a03 (req. id -1)
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishSword 4102 com.df.item.FishSword@10b8d65 (req. id -1)
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishHammer 4103 com.df.item.FishHammer@170119c (req. id -1)
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:item.FishBomb 4104 com.df.item.FishBomb@9429ea (req. id -1)
+[18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:tile.fishOre 165 com.df.block.fishOre@144a634 (req. id -1)
+[18:47:37] [Client thread/DEBUG] [FML/com.sevaric.df]: Found matching Block com.df.block.fishOre@144a634 for ItemBlock net.minecraft.item.ItemBlock@1fbb82a at id 165, original id requested: -1
 [18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Registry add: com.sevaric.df:tile.fishOre 165 net.minecraft.item.ItemBlock@1fbb82a (req. id 165)
 [18:47:37] [Client thread/TRACE] [FML/com.sevaric.df]: Automatically registered mod com.sevaric.df entity FishBomb as com.sevaric.df.FishBomb
 [18:47:37] [Client thread/TRACE] [com.sevaric.df/com.sevaric.df]: Sent event FMLPreInitializationEvent to mod com.sevaric.df

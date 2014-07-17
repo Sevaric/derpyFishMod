@@ -2649,7 +2649,7 @@ Caused by: java.lang.IllegalArgumentException
 [18:14:37] [Client thread/DEBUG] [FML/]: Examining directory derpyFishMod for potential mods
 [18:14:37] [Client thread/DEBUG] [FML/]: Found an mcmod.info file in directory derpyFishMod
 [18:14:37] [Client thread/TRACE] [FML/]: Recursing into package assets
-[18:14:37] [Client thread/TRACE] [FML/]: Recursing into package assets.df
+[18:14:37] [Client thread/TRACE] [FML/]: Recursing into package assets.sevaric.df
 [18:14:37] [Client thread/TRACE] [FML/]: Recursing into package assets.df.lang
 [18:14:37] [Client thread/TRACE] [FML/]: Recursing into package assets.df.textures
 [18:14:37] [Client thread/TRACE] [FML/]: Recursing into package assets.df.textures.blocks
@@ -2658,7 +2658,7 @@ Caused by: java.lang.IllegalArgumentException
 [18:14:37] [Client thread/TRACE] [FML/]: Recursing into package com
 [18:14:37] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric
 [18:14:37] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df
-[18:14:37] [Client thread/TRACE] [FML/]: Recursing into package com.sevaric.df.block
+[18:14:37] [Client thread/TRACE] [FML/]: Recursing into package com.df.block
 [18:14:37] [Client thread/ERROR] [FML/]: Unable to read a class file correctly
 java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:170) ~[asm-debug-all-4.1.jar:4.1]
