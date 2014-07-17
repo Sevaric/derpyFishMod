@@ -1,16 +1,19 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "df",
+  "name": "Derpy Fish Mod",
+  "description": "This Mod Adds Derpy Fish",
+  "version": "1.0",
+  "mcversion": "1.7.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["Sevaric"],
+  "credits": "Austin and Trogdor for helping me :D",
+  "logoFile": "Derpy-Fish-Logo.png",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": [
+            "Forge",
+            "FML"
+  ]
 }
 ]
