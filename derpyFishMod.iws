@@ -2,116 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="830210f3-a79c-4f8f-93cf-a4060081e946" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/ItemManager.java" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\FishWorld\generator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\FishWorld\main.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\block\BlockManager.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\block\BlockManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\block\fishOre.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\block\fishOre.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\creativetabs\CreativeTabsManager.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\creativetabs\CreativeTabsManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\creativetabs\ItemTab.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\creativetabs\ItemTab.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\entity\EntityFBomb.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\entity\EntityManager.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\entity\EntityManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\entity\FishMob.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\entity\FishMob.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\entity\FishPassive.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\entity\FishPassive.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\generation\WorldGenManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\generation\fishOreGen.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\Fish.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\Fish.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\FishAxe.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\FishBomb.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\FishHammer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\FishHoe.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\FishPickaxe.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\FishSpade.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\FishSword.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\Fishbowl.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\Fishbowl.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\ItemManager.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\item\ItemManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\lib\StringLibrary.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\lib\StringLibrary.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\main\ClientProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\main\ClientProxy.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\main\MainRegistry.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\main\MainRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\main\ServerProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\main\ServerProxy.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\model\Fish.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\model\Fish.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\recipe\RecipeManager.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\recipe\RecipeManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\render\RenderFish.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\camp\render\RenderFish.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\ItemManager.java" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\FishWorld\generator.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/FishWorld/generator.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\FishWorld\main.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/FishWorld/main.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\block\BlockManager.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/block/BlockManager.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\block\BlockManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/block/BlockManager.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\block\fishOre.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/block/fishOre.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\block\fishOre.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/block/fishOre.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\creativetabs\CreativeTabsManager.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/creativetabs/CreativeTabsManager.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\creativetabs\CreativeTabsManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/creativetabs/CreativeTabsManager.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\creativetabs\ItemTab.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/creativetabs/ItemTab.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\creativetabs\ItemTab.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/creativetabs/ItemTab.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\EntityFBomb.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/entity/EntityFBomb.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\EntityManager.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/entity/EntityManager.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\EntityManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/entity/EntityManager.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\FishMob.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/entity/FishMob.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\FishMob.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/entity/FishMob.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\FishPassive.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/entity/FishPassive.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\FishPassive.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/entity/FishPassive.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\generation\WorldGenManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/generation/WorldGenManager.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\generation\fishOreGen.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/generation/fishOreGen.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\Fish.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/Fish.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\Fish.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/Fish.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishAxe.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/FishAxe.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishBomb.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/FishBomb.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishHammer.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/FishHammer.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishHoe.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/FishHoe.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishPickaxe.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/FishPickaxe.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishSpade.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/FishSpade.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishSword.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/FishSword.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\Fishbowl.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/Fishbowl.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\Fishbowl.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/Fishbowl.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\ItemManager.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/item/ItemManager.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\lib\StringLibrary.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/lib/StringLibrary.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\lib\StringLibrary.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/lib/StringLibrary.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\ClientProxy.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/main/ClientProxy.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\ClientProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/main/ClientProxy.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\MainRegistry.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/main/MainRegistry.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\MainRegistry.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/main/MainRegistry.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\ServerProxy.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/main/ServerProxy.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\ServerProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/main/ServerProxy.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\model\Fish.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/model/Fish.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\model\Fish.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/model/Fish.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\recipe\RecipeManager.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/recipe/RecipeManager.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\recipe\RecipeManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/recipe/RecipeManager.java" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\render\RenderFish.class" afterPath="$PROJECT_DIR$/src/main/java/com/df/render/RenderFish.class" />
-      <change type="MOVED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\render\RenderFish.java" afterPath="$PROJECT_DIR$/src/main/java/com/df/render/RenderFish.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/playerdata/040a63f0-e153-3f49-84a8-b60ca564e69f.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test/playerdata/040a63f0-e153-3f49-84a8-b60ca564e69f.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-17-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-17-1.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/level.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test/level.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/level.dat_old" afterPath="$PROJECT_DIR$/eclipse/saves/Test/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.-3.-3.mca" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.-3.-3.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.-4.-3.mca" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.-4.-3.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/session.lock" afterPath="$PROJECT_DIR$/eclipse/saves/Test/session.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test/DIM-1/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test/DIM1/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test/stats/040a63f0-e153-3f49-84a8-b60ca564e69f.json" afterPath="$PROJECT_DIR$/eclipse/saves/Test/stats/040a63f0-e153-3f49-84a8-b60ca564e69f.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/derpyFishMod.iws" afterPath="$PROJECT_DIR$/derpyFishMod.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\FishWorld\generator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\FishWorld\main.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\block\BlockManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\block\BlockManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\block\fishOre.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\block\fishOre.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\creativetabs\CreativeTabsManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\creativetabs\CreativeTabsManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\creativetabs\ItemTab.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\creativetabs\ItemTab.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\EntityFBomb.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\EntityManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\EntityManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\FishMob.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\FishMob.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\FishPassive.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\entity\FishPassive.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\generation\WorldGenManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\generation\fishOreGen.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\Fish.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\Fish.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishAxe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishBomb.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishHammer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishHoe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishPickaxe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishSpade.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\FishSword.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\Fishbowl.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\Fishbowl.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\item\ItemManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\lib\StringLibrary.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\lib\StringLibrary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\ClientProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\ClientProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\MainRegistry.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\MainRegistry.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\ServerProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\main\ServerProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\model\Fish.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\model\Fish.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\recipe\RecipeManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\recipe\RecipeManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\render\RenderFish.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jared\Desktop\Development\derpyFishMod\src\main\java\com\sevaric\df\render\RenderFish.java" afterPath="" />
     </list>
     <ignored path="derpyFishMod.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -165,8 +100,8 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties converted="true" />
     <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -177,7 +112,7 @@
       <file leaf-file-name="mcmod.info" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.09375" vertical-offset="0" max-vertical-offset="425">
+            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -190,7 +125,7 @@
       <file leaf-file-name="BlockManager.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/df/block/BlockManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="833">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding />
             </state>
@@ -200,7 +135,7 @@
       <file leaf-file-name="fishOre.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/df/block/fishOre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="731">
               <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
               <folding />
             </state>
@@ -212,9 +147,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1462">
               <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -222,7 +155,7 @@
       <file leaf-file-name="Fish.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/df/item/Fish.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="408">
               <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
@@ -232,7 +165,7 @@
       <file leaf-file-name="StringLibrary.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/df/lib/StringLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20877193" vertical-offset="0" max-vertical-offset="570">
+            <state vertical-scroll-proportion="0.136939" vertical-offset="0" max-vertical-offset="869">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
@@ -242,7 +175,7 @@
       <file leaf-file-name="MainRegistry.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/df/main/MainRegistry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="935">
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
@@ -853,7 +786,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -915,10 +848,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="df" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -948,7 +877,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1264,11 +1193,12 @@
       <workItem from="1405550055446" duration="903000" />
       <workItem from="1405606771014" duration="788000" />
       <workItem from="1405635175087" duration="2599000" />
+      <workItem from="1407350990335" duration="332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7788000" />
+    <option name="totallyTimeSpent" value="8120000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1294,12 +1224,11 @@
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991131" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1308,7 +1237,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.50082374" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32741398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1316,12 +1244,14 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21069519" sideWeight="0.49917626" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991131" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3314856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32741398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991131" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1349,6 +1279,65 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/df/block/BlockManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="833">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/df/block/fishOre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="731">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/df/item/ItemManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1462">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/df/item/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="408">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/df/lib/StringLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/df/main/MainRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="935">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
@@ -1384,7 +1373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.09375" vertical-offset="0" max-vertical-offset="425">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
@@ -1413,7 +1402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1437,15 +1425,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1462">
           <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/df/lib/StringLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20877193" vertical-offset="0" max-vertical-offset="570">
+        <state vertical-scroll-proportion="0.136939" vertical-offset="0" max-vertical-offset="869">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
