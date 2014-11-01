@@ -67,8 +67,7 @@ public class ItemManager {
     public static void registerItem() {
         GameRegistry.registerItem(Fishbowl, Fishbowl.getUnlocalizedName());
         GameRegistry.registerItem(Fish, Fish.getUnlocalizedName());
-        GameRegistry
-                .registerItem(FishPickaxe, FishPickaxe.getUnlocalizedName());
+        GameRegistry.registerItem(FishPickaxe, FishPickaxe.getUnlocalizedName());
         GameRegistry.registerItem(FishAxe, FishAxe.getUnlocalizedName());
         GameRegistry.registerItem(FishHoe, FishHoe.getUnlocalizedName());
         GameRegistry.registerItem(FishSpade, FishSpade.getUnlocalizedName());
